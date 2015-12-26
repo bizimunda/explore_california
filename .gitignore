@@ -1,7 +1,8 @@
 # Comment 
 tempfile.txt
 tempfile2.txt
-
+tempfile4.txt
+tempfile3.txt
 .DS_Store
 *.zip
 *.gz
